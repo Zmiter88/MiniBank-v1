@@ -1,0 +1,5 @@
+[
+  { "fromId": 1, "toId": 2, "amount": 200, "expectedMessage": "Transfer successful" },
+  { "fromId": 2, "toId": 1, "amount": 2000, "expectedMessage": "Transfer failed" },
+  { "fromId": 999, "toId": 1, "amount": 100, "expectedMessage": "Transfer failed" }
+]

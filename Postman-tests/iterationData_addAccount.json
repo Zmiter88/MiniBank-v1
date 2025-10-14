@@ -1,0 +1,4 @@
+[
+  { "id": 1, "owner": "Alice", "balance": 200, "expectedCode": 400, "expectedMessage": "Account with this ID already exists" },
+  { "id": 3, "owner": "Patryk Z", "balance": 10000, "expectedCode": 200, "expectedMessage": "Account added" }
+]

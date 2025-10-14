@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "expectedOwner": "Alice",
+    "expectedBalance": 1000,
+    "expectedStatus": 200
+  },
+  {
+    "id": 2,
+    "expectedOwner": "Bob",
+    "expectedBalance": 500,
+    "expectedStatus": 200
+  },
+  {
+    "id": 999,
+    "expectedOwner": null,
+    "expectedBalance": null,
+    "expectedStatus": 500
+  },
+  {
+    "id": 0,
+    "expectedOwner": null,
+    "expectedBalance": null,
+    "expectedStatus": 500
+  },
+  {
+    "id": -1,
+    "expectedOwner": null,
+    "expectedBalance": null,
+    "expectedStatus": 500
+  }
+]
