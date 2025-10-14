@@ -1,0 +1,7 @@
+[
+  { "id": 1, "owner": "Alice", "balance": 2500.75, "currency": "PLN", "status": "ACTIVE", "createdAt": "2023-03-15T10:00:00", "accountType": "SAVINGS" },
+  { "id": 2, "owner": "Bob", "balance": 4000.00, "currency": "USD", "status": "ACTIVE", "createdAt": "2023-04-01T09:30:00", "accountType": "CHECKING" },
+  { "id": 3, "owner": "Charlie", "balance": 1500.00, "currency": "EUR", "status": "BLOCKED", "createdAt": "2023-04-25T14:20:00", "accountType": "BUSINESS" },
+  { "id": 4, "owner": "Diana", "balance": 800.50, "currency": "PLN", "status": "ACTIVE", "createdAt": "2023-05-12T11:10:00", "accountType": "SAVINGS" },
+  { "id": 5, "owner": "Edward", "balance": 12000.00, "currency": "PLN", "status": "ACTIVE", "createdAt": "2023-02-10T08:00:00", "accountType": "PREMIUM" }
+]
