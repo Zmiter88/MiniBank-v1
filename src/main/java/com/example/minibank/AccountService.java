@@ -10,8 +10,8 @@ public class AccountService {
 
     public AccountService() {
         // dane startowe
-        accounts.put(1L, new Account(1L, "Alice", 1000));
-        accounts.put(2L, new Account(2L, "Bob", 500));
+//        accounts.put(1L, new Account(1L, "Alice", 1000));
+ //       accounts.put(2L, new Account(2L, "Bob", 500));
     }
 
     public List<Account> getAllAccounts() {

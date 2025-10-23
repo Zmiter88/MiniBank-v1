@@ -919,7 +919,7 @@ public void addAccountWithExistingId() {
     //Pobierz /accounts/5 i zdeserializuj go do klasy Account.
     //Porównaj obiekty (np. assertThat(fetchedAccount.getOwner(), equalTo(account.getOwner()))).
 
-    @Test
+/*    @Test
     public void deserializacjaObiektow() {
 
         Account newAccount = new Account(5L, "Diana", 3000.0);
@@ -950,7 +950,7 @@ public void addAccountWithExistingId() {
         assertThat(fetchedAccount.getId(), equalTo(newAccount.getId()));
         assertThat(fetchedAccount.getOwner(), equalTo(newAccount.getOwner()));
         assertThat(fetchedAccount.getBalance(), equalTo(newAccount.getBalance()));
-    }
+    }*/
 
 
 

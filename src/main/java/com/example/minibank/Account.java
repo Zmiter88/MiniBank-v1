@@ -9,6 +9,9 @@ public class Account {
     private String createdAt;
     private String accountType;
 
+    public Account() {
+    }
+
     public Account(Long id, String owner, double balance, String currency, String status, String createdAt, String accountType) {
         this.id = id;
         this.owner = owner;
